@@ -1,0 +1,124 @@
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7700 Series (ID=0x683d)
+    Vendor:   ATI
+    VRAM:     1012 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\BruceRick\Documents\Repositories\RumbleBall\Rumble Ball\RumbleBall_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\BruceRick\Documents\Repositories\RumbleBall\Rumble Ball\RumbleBall_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\BruceRick\Documents\Repositories\RumbleBall\Rumble Ball\RumbleBall_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\BruceRick\Documents\Repositories\RumbleBall\Rumble Ball\RumbleBall_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\BruceRick\Documents\Repositories\RumbleBall\Rumble Ball\RumbleBall_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\BruceRick\Documents\Repositories\RumbleBall\Rumble Ball\RumbleBall_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.045 seconds
+desktop: 1680x1050 60Hz; virtual: 3120x1050 at -1440,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\BruceRick\Documents\Repositories\RumbleBall\Rumble Ball\RumbleBall_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\BruceRick\Documents\Repositories\RumbleBall\Rumble Ball\RumbleBall_Data\Managed\System.dll (this message is harmless)
+OnCreatedRoom
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.541005 ms
+RUMBLEBALL GAME AWAKE
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PLAYER AWAKE
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 503.
+Total: 0.548336 ms (FindLiveObjects: 0.021259 ms CreateObjectMapping: 0.010996 ms MarkObjects: 0.162741 ms  DeleteObjects: 0.006231 ms)
+
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7700 Series (ID=0x683d)
+    Vendor:   ATI
+    VRAM:     1012 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\BruceRick\Documents\Repositories\RumbleBall\Rumble Ball\RumbleBall_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\BruceRick\Documents\Repositories\RumbleBall\Rumble Ball\RumbleBall_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\BruceRick\Documents\Repositories\RumbleBall\Rumble Ball\RumbleBall_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\BruceRick\Documents\Repositories\RumbleBall\Rumble Ball\RumbleBall_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\BruceRick\Documents\Repositories\RumbleBall\Rumble Ball\RumbleBall_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\BruceRick\Documents\Repositories\RumbleBall\Rumble Ball\RumbleBall_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.045 seconds
+desktop: 1680x1050 60Hz; virtual: 3120x1050 at -1440,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\BruceRick\Documents\Repositories\RumbleBall\Rumble Ball\RumbleBall_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\BruceRick\Documents\Repositories\RumbleBall\Rumble Ball\RumbleBall_Data\Managed\System.dll (this message is harmless)
+OnPhotonPlayerConnected: 'Guest2620'
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.208558 ms
+RUMBLEBALL GAME AWAKE
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PLAYER AWAKE
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 503.
+Total: 0.539906 ms (FindLiveObjects: 0.020892 ms CreateObjectMapping: 0.010629 ms MarkObjects: 0.166406 ms  DeleteObjects: 0.006231 ms)
+
+PLAYER AWAKE
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+PLAYER AWAKE
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnLeftRoom (local)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnDisconnectedFromPhoton
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnPlayerDisconneced: 'Guest2620'
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.986712 ms
+Ignoring Connect() because app gets closed. If this is an error, check PhotonHandler.AppQuits.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 66 unused Assets to reduce memory usage. Loaded Objects now: 201.
+Total: 1.728579 ms (FindLiveObjects: 0.008063 ms CreateObjectMapping: 0.009163 ms MarkObjects: 0.163841 ms  DeleteObjects: 1.224594 ms)
+
+OnLeftRoom (local)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnDisconnectedFromPhoton
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.553468 ms
+Ignoring Connect() because app gets closed. If this is an error, check PhotonHandler.AppQuits.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 66 unused Assets to reduce memory usage. Loaded Objects now: 202.
+Total: 1.667368 ms (FindLiveObjects: 0.007697 ms CreateObjectMapping: 0.009163 ms MarkObjects: 0.166773 ms  DeleteObjects: 1.141024 ms)
+
